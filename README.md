@@ -1,2 +1,4 @@
 # Kidania_files
-Project Files 
+Project Files  for open source projects. 
+Designed for LLM Agentic Coding.
+
